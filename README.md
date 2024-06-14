@@ -5,8 +5,11 @@ Course Tutor app is a basic Rails API application that supports below actions -
 Creating a course with tutors-
   
 API Endpoint - /courses
+
 method       - POST
+
 Headers      - {"accept": "application/json"}
+
 Body         - {
                 "name": "Course Name",
                 "description": "course description",
