@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+course_one:
+  name: Course 1
+  description: course 1 description
+  duration: 2 hours
+
+course_two:
+  name: Course 2
+  description: course 2 description
+  duration: 1 week

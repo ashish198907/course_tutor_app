@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+tutor_one:
+  name: Tutor 1
+  email: turor1@test.com
+  course: course_one
+
+tutor_two:
+  name: Tutor 2
+  email: tutor2@test.com
+  course: course_one
